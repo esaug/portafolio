@@ -6,7 +6,7 @@ import {
 } from 'react-icons/si'
 import { TbBrandNextjs } from 'react-icons/tb'
 import { BiLogoFirebase, BiLogoSass } from 'react-icons/bi'
-import { FaAws, FaCss3Alt } from 'react-icons/fa'
+import {FaCss3Alt } from 'react-icons/fa'
 import {AiFillApi} from 'react-icons/ai'
 import {IoLogoNodejs} from 'react-icons/io'
 
