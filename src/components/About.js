@@ -11,7 +11,7 @@ function About(){
             </p>
 
             <p className="text-2xl sm:text-xl text-center text-gray-600 leading-relaxed mt-4 ">
-                I'm PAssionate web 
+                Welcome to my Art Gallery
             </p>
 
             <ScrollIntoView selector = "#tech">
