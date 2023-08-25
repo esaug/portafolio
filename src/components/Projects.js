@@ -24,7 +24,7 @@ export default function className
   return (
     <div className='max-w-4xl mx-auto justify-center py-12'>
 
-      <p className='text-2x1 text-black sm:text-4xl pt-4 font-bold text-center'>Projects</p>
+      <p className=' text-black text-4xl pt-4 font-bold text-center'>Projects</p>
 
       <div className='flex flex-wrap justify-center pt-2'>
 
@@ -37,7 +37,7 @@ export default function className
               >
               <a href={projectUrl[index]} target="_blank">
 
-                <img className='w-[130px] h-[120px]' src={imgProject[index]}/>
+                <img className='w-[130px] h-[120px] mx-auto' src={imgProject[index]}/>
                 <p className='mt-6 text-xl sm:text-2xl font-semibold text-center'>{proj}</p>
 
               </a>
